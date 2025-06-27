@@ -5,3 +5,5 @@ requests
 flask
 xlrd
 openpyxl
+Ollama
+ollama run llama3
